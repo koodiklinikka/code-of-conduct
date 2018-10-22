@@ -21,7 +21,7 @@ Jäsentemme monimuotoisuus ja erilaisuuden tervetulleeksi toivottaminen tekee yh
   - Väkivalta, väkivallalla uhkailu tai väkivaltainen kielenkäyttö
 
 Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit lähettää yksityisviestiä suoraan seuraaville käyttäjille:
-riku, keksike, pinqvin, hannupekka
+riku (Riku Rouvila) tai keksike (Cihan Bebek)
 
 tai lähettää myös sähköpostia osoitteeseen info@koodiklinikka.fi
 
