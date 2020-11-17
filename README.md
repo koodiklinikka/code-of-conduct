@@ -6,19 +6,21 @@ Päätavoitteemme on Koodiklinikan perustamisesta lähtien ollut tarjota paikka,
 
 Jäsentemme monimuotoisuus ja erilaisuuden tervetulleeksi toivottaminen tekee yhteisöstämme vahvan ja rikkaan. Kannustamme poikkeuksetta erilaisuuteen ja toivomme yhteisöömme ihmisiä mahdollisimman monesta eri lähtökohdasta. Meille on äärimmäisen tärkeää, että jokainen jäsenemme kokee voivansa olla oma itsensä osallistuessaan toimintaamme.
 
-**Odotettu käytös:**
+**Tätä odotamme sinulta**
 - Ole ystävällinen
 - Toivota jokainen tervetulleeksi keskusteluun ja muuhun toimintaan
 - Pidä huolta myös muista yhteisön jäsenistä
 - Ole avulias ja pyri omalla käytökselläsi luomaan ilmapiiriä, jossa kynnys kysyä mitä tahansa on mahdollisimman pieni. 
 
-**Ei hyväksytty käytös:**
+**Tätä emme hyväksy**
   - Käytös tai puhe, joka voidaan tulkita seksistisenä, rasistisena, homofobisena, transfobisena tai muuten syrjivänä tai loukkaavana.
     - Älä käytä vihjailevia, halventavia, tai sopimattomia lempinimiä tai termejä
     - Älä käyttäydy epäkunnioittavasti muita kohtaan (vitsailu, vihjailu, väheksyvä asenne)
   - Uhkailu tai häirintä
   - Sopimaton huomio tai yhteydenotto. Älä tee kenenkään oloa epämukavaksi.
   - Väkivalta, väkivallalla uhkailu tai väkivaltainen kielenkäyttö
+
+Saat kirjoittaa joko omalla nimelläsi tai nimimerkillä, joka on helposti tunnistettavissa nimimerkiksi. Myöskään profiilikuva ei ole pakollinen. Jos profiilikuvasi on kuitenkin kuva ihmisestä, sen tulisi olla kuva sinusta.
 
 Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit lähettää yksityisviestiä suoraan seuraaville käyttäjille:
 riku (Riku Rouvila) tai keksike (Cihan Bebek)
