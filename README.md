@@ -6,11 +6,15 @@ Päätavoitteemme on Koodiklinikan perustamisesta lähtien ollut tarjota paikka,
 
 Jäsentemme monimuotoisuus ja erilaisuuden tervetulleeksi toivottaminen tekee yhteisöstämme vahvan ja rikkaan. Kannustamme poikkeuksetta erilaisuuteen ja toivomme yhteisöömme ihmisiä mahdollisimman monesta eri lähtökohdasta. Meille on äärimmäisen tärkeää, että jokainen jäsenemme kokee voivansa olla oma itsensä osallistuessaan toimintaamme.
 
+Ota viesteissäsi huomioon sävy, ja ettei jokainen lukija tulkitse viestejäsi samalla tavalla. Tekstimuotoisessa keskustelussa esimerkiksi sarkasmi ei aina välity lukijalle haluamallasi tavalla. On tärkeää myös muistaa, että kanavilla on paljon lukijoita, jotka eivät osallistu keskusteluun. Pyri ottamaan myös heidät huomioon pitämällä kynnys keskusteluun osallistumiseen mahdollisimman matalalla.
+
 **Tätä odotamme sinulta**
-- Ole ystävällinen
-- Toivota jokainen tervetulleeksi keskusteluun ja muuhun toimintaan
-- Pidä huolta myös muista yhteisön jäsenistä
-- Ole avulias ja pyri omalla käytökselläsi luomaan ilmapiiriä, jossa kynnys kysyä mitä tahansa on mahdollisimman pieni. 
+- Ole ystävällinen ja kohtelias kaikkia kohtaan.
+- Pyri rakentavaan keskusteluun, jossa kaikki saavat puheenvuoron.
+- Toivota jokainen tervetulleeksi keskusteluun ja muuhun toimintaan.
+- Pidä huolta myös muista yhteisön jäsenistä.
+- Ole avulias ja pyri omalla käytökselläsi luomaan ilmapiiriä, jossa kynnys kysyä mitä tahansa on mahdollisimman pieni.
+- Ota yhteyttä ylläpitäjiin jos koet olosi epämukavaksi tai huomaat jonkun rikkovan näitä ohjeita.
 
 **Tätä emme hyväksy**
   - Käytös tai puhe, joka voidaan tulkita seksistisenä, rasistisena, homofobisena, transfobisena tai muuten syrjivänä tai loukkaavana.
