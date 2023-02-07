@@ -22,16 +22,17 @@ Ota viesteissäsi huomioon sävy, ja ettei jokainen lukija tulkitse viestejäsi 
     - Älä käyttäydy epäkunnioittavasti muita kohtaan (vitsailu, vihjailu, väheksyvä asenne)
   - Uhkailu tai häirintä
   - Sopimaton huomio tai yhteydenotto. Älä tee kenenkään oloa epämukavaksi.
-  - Väkivalta, väkivallalla uhkailu tai väkivaltainen kielenkäyttö
+  - Väkivalta, väkivallalla uhkailu tai väkivaltainen kielenkäyttö.
 
 Saat kirjoittaa joko omalla nimelläsi tai nimimerkillä, joka on helposti tunnistettavissa nimimerkiksi. Myöskään profiilikuva ei ole pakollinen. Jos profiilikuvasi on kuitenkin kuva ihmisestä, sen tulisi olla kuva sinusta.
 
-Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit lähettää yksityisviestiä suoraan seuraaville käyttäjille:
-riku (Riku Rouvila) tai keksike (Cihan Bebek)
+Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit lähettää yksityisviestiä Koodiklinikan valvojille:
 
-tai lähettää myös sähköpostia osoitteeseen info@koodiklinikka.fi
+@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
 
-Olemme paikalla sinun vuoksesi ja autamme mielellämme ongelmatilanteissa tai yhteisöömme liittyvissä kysymyksissä
+tai lähettää myös sähköpostia osoitteeseen info@koodiklinikka.fi.
+
+Olemme paikalla sinun vuoksesi ja autamme mielellämme ongelmatilanteissa tai yhteisöömme liittyvissä kysymyksissä.
 
 ## Koodiklinikka Code of Conduct in English
 
