@@ -39,9 +39,13 @@ Olemme paikalla sinun vuoksesi ja autamme mielellämme ongelmatilanteissa tai yh
 ## Koodiklinikka Code of Conduct in English
 
 Our goal is to provide a community that is free of harassment and abuse, friendly and helpful to everyone regardless of gender, age, programming experience, sexual orientation, physical or mental health restrictions, appearance, ethnic background, or religion. We do not tolerate harassment of any kind. Sexual language is not acceptable in the community's events nor in any of its communication channels. Users and sponsors of the community that violate these rules may be removed from the events and from community's other communication channels by decision of the community maintainers without any right to be compensated for entrance, membership, or other fees.
+
 Since Koodiklinikka was founded, our main objective has been to provide a place where anyone can ask anything without fear of being judged, mocked, or otherwise harassed for their questions. We want to emphasize that there are no stupid questions and that every question deserves a complete, well-founded answer. The concept of a "best possible answer" is often subjective, and there are usually many different solutions to one problem. Always consider the needs of the person asking the question and how you can help them find a solution to their problem in a manner that fits the situation. Avoid answers such as "why don't you do it like this instead"; instead, try to provide an answer that fits the context of the asker's current situation.
+
 Our community is strengthened and enriched by our diverse members and acceptance of differences. We encourage diversity without exception and we hope that people from as many different backgrounds as possible join our community. It is vitally important for us that every member of our community feels like they can be their own selves when participating in our community.
+
 Pay attention to your tone in text conversations and remember that everyone will not interpret your messages in the same manner. For example, sarcasm does not always come actoss in the intended manner in text. Also keep in mind that there are many readers on the channel who do not participate in the conversation. Try to keep them in mind by keeping the barrier of entry to the conversation as low as possible.
+
 **Our expectations to you**
 
 - Be kind and courteous to everyone.
@@ -50,15 +54,22 @@ Pay attention to your tone in text conversations and remember that everyone will
 - Take care of fellow community members.
 - Be helpful and try to uphold an atmosphere that keeps the threshold for asking questions as low as possible.
 - If you feel uncomfortable or notice someone not following these instructions, contact the maintainers.
-  **What we do not tolerate**
+
+**What we do not tolerate**
+
 - Behaviour or speech that can be interpreted as sexist, racist, homophobic, transphobic, or otherwise discriminatory or offensive.
   - Do not use suggestive, derogatory, or inappropriate monikers or terms
   - Do not behave disrespectfully towards others (e.g. making fun of someone, making suggestive comments, being dismissive)
 - Bullying or harassment.
 - Inappropriate attention or contact. Do not make anyone uncomfortable.
 - Violence, threatening with violence, or violent communication.
-  You can participate using your own name or with a nickname that is easily identifiable as a nickname. Uploading a profile picture is not mandatory. If your profile picture is of a person, that person should be you.
-  If you feel that someone has violated the code of conduct against you or any other member of the community, you can send a private message to Koodiklinikka's maintainers:
-  @riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
-  or contact us via email at info@koodiklinikka.fi.
-  We are here for you and we are happy to help with any problems or questions regarding our community.
+
+You can participate using your own name or with a nickname that is easily identifiable as a nickname. Uploading a profile picture is not mandatory. If your profile picture is of a person, that person should be you.
+
+If you feel that someone has violated the code of conduct against you or any other member of the community, you can send a private message to Koodiklinikka's maintainers:
+
+@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
+
+or contact us via email at info@koodiklinikka.fi.
+
+We are here for you and we are happy to help with any problems or questions regarding our community.
