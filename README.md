@@ -56,7 +56,7 @@ Pay attention to your tone in text conversations and remember that everyone will
 - Be kind and courteous to everyone.
 - Strive for constructive discussion where everyone's voice is heard.
 - Welcome everyone to participate in the discussion and other activity.
-- Suosi inklusiivistä, syrjimätöntä kielenkäyttöä, esim.:
+- Prefer inclusive language, e.g.:
   - 'guys' → 'all', 'friends'
   - 'blacklist', 'whitelist' → 'blocklist', 'allowlist'
   - 'fireman' → 'firefighter'
