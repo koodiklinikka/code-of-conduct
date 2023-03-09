@@ -13,6 +13,10 @@ Ota viesteissäsi huomioon niiden sävy ja ettei jokainen keskustelujen lukija t
 - Ole ystävällinen ja kohtelias kaikkia kohtaan.
 - Pyri rakentavaan keskusteluun, jossa kaikki saavat puheenvuoron.
 - Toivota jokainen tervetulleeksi keskusteluun ja muuhun toimintaan.
+- Suosi inklusiivistä, syrjimätöntä kielenkäyttöä, esim.:
+  - 'ukot', 'jätkät' → 'tyypit'
+  - 'blacklist', 'whitelist' → 'blocklist', 'allowlist'
+  - 'esimies', 'palomies' → 'esihenkilö', 'pelastaja'
 - Pidä huolta myös muista yhteisön jäsenistä.
 - Ole avulias ja pyri omalla käytökselläsi luomaan ilmapiiriä, jossa kynnys kysyä mitä tahansa on mahdollisimman pieni.
 - Ota yhteyttä ylläpitäjiin jos koet olosi epämukavaksi tai huomaat jonkun rikkovan näitä ohjeita.
@@ -51,6 +55,10 @@ Pay attention to your tone in text conversations and remember that everyone will
 - Be kind and courteous to everyone.
 - Strive for constructive discussion where everyone's voice is heard.
 - Welcome everyone to participate in the discussion and other activity.
+- Prefer inclusive language, e.g.:
+  - 'guys' → 'all', 'folks', 'people', 'friends'
+  - 'blacklist', 'whitelist' → 'blocklist', 'allowlist'
+  - 'fireman' → 'firefighter'
 - Take care of fellow community members.
 - Be helpful and try to uphold an atmosphere that keeps the threshold for asking questions as low as possible.
 - If you feel uncomfortable or notice someone not following these instructions, contact the maintainers.
