@@ -16,8 +16,7 @@ Ota viesteissäsi huomioon niiden sävy ja ettei jokainen keskustelujen lukija t
 - Suosi inklusiivistä, syrjimätöntä kielenkäyttöä, esim.:
   - 'ukot', 'jätkät' → 'tyypit'
   - 'blacklist', 'whitelist' → 'blocklist', 'allowlist'
-  - 'esimies' → 'esihenkilö'
-  - 'palomies' → 'pelastaja'
+  - 'esimies', 'palomies' → 'esihenkilö', 'pelastaja'
 - Pidä huolta myös muista yhteisön jäsenistä.
 - Ole avulias ja pyri omalla käytökselläsi luomaan ilmapiiriä, jossa kynnys kysyä mitä tahansa on mahdollisimman pieni.
 - Ota yhteyttä ylläpitäjiin jos koet olosi epämukavaksi tai huomaat jonkun rikkovan näitä ohjeita.
