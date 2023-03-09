@@ -57,7 +57,7 @@ Pay attention to your tone in text conversations and remember that everyone will
 - Strive for constructive discussion where everyone's voice is heard.
 - Welcome everyone to participate in the discussion and other activity.
 - Prefer inclusive language, e.g.:
-  - 'guys' → 'all', 'friends'
+  - 'guys' → 'all', 'folks', 'people', 'friends'
   - 'blacklist', 'whitelist' → 'blocklist', 'allowlist'
   - 'fireman' → 'firefighter'
 - Take care of fellow community members.
