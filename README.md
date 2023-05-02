@@ -32,7 +32,9 @@ Ota viesteissäsi huomioon niiden sävy ja ettei jokainen keskustelujen lukija t
 
 Saat kirjoittaa joko omalla nimelläsi tai nimimerkillä, joka on helposti tunnistettavissa nimimerkiksi. Myöskään profiilikuva ei ole pakollinen. Jos profiilikuvasi on kuitenkin kuva ihmisestä, sen tulisi olla kuva sinusta.
 
-Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit lähettää yksityisviestiä Koodiklinikan valvojille:
+Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäseniä kohtaan voit ilmoittaa epäsopivan viestin käyttämällä Slackin "Ilmoita viestistä"-ominaisuutta, joka löytyy jokaisen viestin pudotusvalikosta. Ilmoituksen viestistä voi tehdä anonyymisti tai omalla nimellä. Voit myös ilmoittaa epäsopivasta viestistä reagoimalla viestiin Code Of Conduct (:coc:)-hymiöllä. Ilmoitetut viestit saapuvat automaattisesti ylläpidon kanavalle.
+
+Vaihtoehtoisesti voit lähettää yksityisviestiä Koodiklinikan valvojille:
 
 @riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
 
@@ -74,7 +76,9 @@ Pay attention to your tone in text conversations and remember that everyone will
 
 You can participate using your own name or with a nickname that is easily identifiable as a nickname. Uploading a profile picture is not mandatory. If your profile picture is of a person, that person should be you.
 
-If you feel that someone has violated the code of conduct against you or any other member of the community, you can send a private message to Koodiklinikka's maintainers:
+If you feel that someone has violated the code of conduct against you or any other member of the community, you can report the messages by using the "Ilmoita viestistä"-functionality, which can be found in the message's dropdown menu. You can report messages anonymously or with your own username. You can also report the messages by reacting to them with the Code Of Conduct (:coc:)-emoji. The reported messages are automatically sent to the admin channel.
+
+Alternatively you can send a private message to Koodiklinikka's maintainers:
 
 @riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
 
