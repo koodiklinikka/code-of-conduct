@@ -36,7 +36,7 @@ Mikäli koet, että joku rikkoo käytössääntöjä joko sinua tai muita jäsen
 
 Vaihtoehtoisesti voit lähettää yksityisviestiä Koodiklinikan valvojille:
 
-@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
+@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
 
 tai lähettää myös sähköpostia osoitteeseen info@koodiklinikka.fi.
 
