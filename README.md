@@ -80,7 +80,7 @@ If you feel that someone has violated the code of conduct against you or any oth
 
 Alternatively you can send a private message to Koodiklinikka's maintainers:
 
-@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @juhis @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
+@riku @keksike @pinqvin @akx @ajk @jallu @pakastin @Kitsu @lauri @lauripiispanen @mariannesiren @maffe @n1ko @ochrons @pete @peritpatrio @trautonen
 
 or contact us via email at info@koodiklinikka.fi.
 
